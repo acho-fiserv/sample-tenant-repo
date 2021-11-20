@@ -7,7 +7,8 @@ This repo contains the content for tenants of Developer Studio.
 
 - /docs - all markdown files are to be placed in this directory
 - /assets -  static assets like image etc here
-- /config/document-explorer-definition.yaml: Provide document explorer structure for dev studio    
+- /config/document-explorer-definition.yaml: Provide document explorer structure for dev studio.  Also known as the ded (dead) file.
+- ./docingore - companion file to the ded file.  use this to hide markdown files from showing up in the doc explorer and from being indexed & searchable
 - /config/tenant_api.json: Tenant Provider API 
 - /config/product_layout.yaml: Yaml spec for product layout page
 - /reference/api-[document.version].yaml: Tenant APIs in OpenAPI 3.0 Spec
