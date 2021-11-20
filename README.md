@@ -7,8 +7,17 @@ This repo contains the content for tenants of Developer Studio.
 
 ### /docs - all markdown files are to be placed in this directory
 ### /assets -  static assets like image etc here
-### /config/document-explorer-definition.yaml: Provide explorer structure for dev studio    
+### /config/document-explorer-definition.yaml: Provide document explorer structure for dev studio    
 ### /config/tenant_api.json: Tenant Provider API 
 ### /config/product_layout.yaml: Yaml spec for product layout page
 ### /reference/api-[document.version].yaml: Tenant APIs in OpenAPI 3.0 Spec
 
+## Setup a new tenant
+
+### Configure tenant.json
+
+The main configuration file for everything.
+
+DO NOT modify the structure.
+
+DO update the sections that are needed.  Look for "REPLACE ME".  You can then replace the text for that field.
