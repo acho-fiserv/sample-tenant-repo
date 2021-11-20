@@ -57,17 +57,17 @@
   },
    "supportConfig": [{ 
 		"bug": {
-			"label": "bug",
+			"label": "bug,REPLACEME",
 			"template": "bug.md",
 			"assignees": "awaneesh.srivastava@fiserv.com,palani.p@fiserv.com"
 		},
 		"feedback": {
-			"label": "feedback",
+			"label": "feedback,REPLACEME",
 			"template": "feedback.md",
 			"assignees": "awaneesh.srivastava@fiserv.com"
 		},
 		"enhancement": {
-			"label": "enhancement",
+			"label": "enhancement,REPLACEME",
 			"template": "feature.md",
 			"assignees": "awaneesh.srivastava@fiserv.com"
 		}
