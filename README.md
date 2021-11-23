@@ -11,7 +11,7 @@ This repo contains the content for tenants of Developer Studio.
 - /config/tenant_api.json : Tenant Provider API 
 - /config/product_layout.yaml : Yaml spec for product layout page
 - /reference/api-[document.version].yaml : Tenant APIs in OpenAPI 3.0 Spec
-- ./docignore : Companion file to the ded file.  Use this to hide markdown files from showing up in the doc explorer and from being indexed & searchable
+- .docignore : Companion file to the ded file.  Use this to hide markdown files from showing up in the doc explorer and from being indexed & searchable
 
 ## Setup a new tenant
 
