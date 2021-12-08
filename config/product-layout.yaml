@@ -56,14 +56,14 @@ steps:
         Deploy your applications in our testing environment for quality assurance testing.  Once ready promote your application to our production environment. 
       link:
 featuredFeatures:
-  - title: Credit Issuance
-    description:  FirstVision solution allows financial Institution to issue and manage the Credit Card products to their end customers. 
-    tags: ["APAC", "FirstVision", "Credit"]
-    bullets: ["Activate Card", "Block Card", "Lost Stolen Card Transfer", "CVV2 Validation" ]  
+  - title: REPLACE ME
+    description:  REPLACE ME
+    tags: ["REPLACEME", "REPLACEME", "REPLACEME"]
+    bullets: ["REPLACEME", "REPLACEME" ]  
     relatedDocs:
       - relatedDoc: 
-        title: Account Management
-        description: Allows management of an accounts that holds financial information of Credit available/ used.
+        title: REPLACEME
+        description: REPLACEME
         link: ./docs/Account-Management.md
       - relatedDoc: 
         title: Customer Management
