@@ -34,27 +34,6 @@ header:
   image: 
     link: "/assets/images/Fiserv_Logo.jpg"
     altText: REPLACEME™
-steps:  
-  learnSteps:
-    - title: Learn
-      description: >
-        Follow our documentation and easy to use examples to build your own mobile or web integrated online applications. 
-      link:
-  buildSteps:
-    - title: Build
-      description: >
-        Get your application up and running with our proprietary integration tools and developer keys. 
-      link:
-  validateSteps:
-    - title: API Explorer
-      description: >
-        Interact with our live api interface for real time responses to the developed application. 
-      link:
-  deploySteps:
-    - title: Deploy
-      description: >
-        Deploy your applications in our testing environment for quality assurance testing.  Once ready promote your application to our production environment. 
-      link:
 featuredFeatures:
   - title: REPLACE ME
     description:  REPLACE ME
