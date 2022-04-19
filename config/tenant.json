@@ -22,8 +22,8 @@
       {
         "version": "1.0.0",
         "versionType": "major",
-        "releaseNotesPath": "/release-notes/release-notes-1.0.0.md",
-        "apiSpecFileNames": ["api-1.0.0"]
+        "releaseNotesPath": "docs/release-notes/2022/march.md",
+        "apiSpecFileNames": ["openapi"]
       }
   ],
   "product": {
@@ -54,23 +54,22 @@
         "name": "editParameterAPIExplorer",
         "value": false
       }
-  ]
-  },
-   "supportConfig": [{ 
-		"bug": {
-			"label": "bug,REPLACEME",
-			"template": "bug.md",
-			"assignees": "TaniaS210489"
-		},
-		"feedback": {
-			"label": "feedback,REPLACEME",
-			"template": "feedback.md",
-			"assignees": "TaniaS210489"
-		},
-		"enhancement": {
-			"label": "enhancement,REPLACEME",
-			"template": "feature.md",
-			"assignees": "TaniaS210489"
-		}
-	}]
+    ]
+  "supportConfig": [{ 
+    "bug": {
+      "label": "bug,CommerceHub",
+      "template": "bug.md",
+      "assignees": "<github-id>"
+    },  
+    "feedback": {
+      "label": "feedback,CommerceHub",
+      "template": "feedback.md",
+      "assignees": "<github-id>"
+    },
+    "enhancement": {
+      "label": "enhancement,CommerceHub",
+      "template": "feature.md",
+      "assignees": "<github-id>"
+    }
+  }]
 }
